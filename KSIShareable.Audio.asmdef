@@ -1,7 +1,9 @@
 {
     "name": "KSIShareable.Audio",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:57d956963d0fdd94c8248ff63b9ac00c"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
