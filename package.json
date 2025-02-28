@@ -5,7 +5,7 @@
   "description": "A package that provides Audio services as a submodule of KSIShareable.",
   "unity": "2022.3",
   "dependencies": {
-    "com.kimsiin.ksishareable.editor": "1.0.0"
+    "com.kimsiin.ksishareable.editor": "https://github.com/EndWish/KSIShareable-Editor.git"
   },
   "author": {
     "name": "SiIn Kim",
